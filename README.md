@@ -312,13 +312,9 @@ streamlit run app.py
 
 📹 Demo Video
 
-> *([Add your YouTube or Drive link here](https://youtu.be/3DKUoVS-yuY?si=r1Szr1MjokkeHJrv))*
+> *([NeurotrackAI](https://youtu.be/3DKUoVS-yuY?si=r1Szr1MjokkeHJrv))*
 
 ---
-
-# 📷 Project Gallery
-
-
 
 # 🌍 Impact
 
