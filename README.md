@@ -312,35 +312,13 @@ streamlit run app.py
 
 📹 Demo Video
 
-> *(Add your YouTube or Drive link here)*
-
----
-
-# 🌐 Live Demo
-
-🔗 Website
-
-> *(Add deployment link here if available)*
+> *([Add your YouTube or Drive link here](https://youtu.be/3DKUoVS-yuY?si=r1Szr1MjokkeHJrv))*
 
 ---
 
 # 📷 Project Gallery
 
-Replace these placeholders with your screenshots.
 
-| Dashboard | Attendance |
-|-----------|------------|
-| ![](docs/dashboard.png) | ![](docs/attendance.png) |
-
-| Student Dashboard | AI Chatbot |
-|-----------|------------|
-| ![](docs/student-dashboard.png) | ![](docs/chatbot.png) |
-
-| Classroom Energy | Exam Monitoring |
-|-----------|------------|
-| ![](docs/classroom-energy.png) | ![](docs/exam-monitoring.png) |
-
----
 
 # 🌍 Impact
 
@@ -371,18 +349,6 @@ NeuroTrack AI aims to create
 - AI Study Planner
 - Cloud Deployment
 - Multi-language Support
-
----
-
-# 👥 Team
-
-**Team Name:** Ctrl AI
-
-### Members
-
-- Prajkta Pankaj Nandurkar
-- Team Member 2
-- Team Member 3
 
 ---
 
